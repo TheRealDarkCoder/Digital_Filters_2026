@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Poetry / VirtualEnv
+.venv/
+dist/
+*.egg-info/
+poetry.lock
